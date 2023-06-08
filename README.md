@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Isaac, I'm an SRE @ ANZx currently embedded with Lending
+
+- 🌱 I’m currently learning about SLOs, Golang and SRE Best Practices
+- 📫 How to reach me: isaac.keleher@anz.com
+- 😄 Pronouns: he/him
+
 <!--
 **ijkeleher-anz/ijkeleher-anz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
