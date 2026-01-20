@@ -2,7 +2,7 @@
 
 My name is Isaac, I'm an SRE @ ANZx currently embedded with Lending
 
-- 🌱 I’m currently learning about SLOs, Golang, AI and LLMs
+- 🌱 I’m currently learning about SLOs, Golang and data tooling (DBT, BigQuery, SQL)
 - 📫 How to reach me: isaac.keleher@anz.com
 - 😄 Pronouns: he/him
 
